@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'net.bonn2'
+group 'net.bonn2.defaultrolemodule'
 
 repositories {
     mavenCentral()
